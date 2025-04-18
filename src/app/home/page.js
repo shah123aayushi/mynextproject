@@ -11,7 +11,8 @@ export default function Home() {
         <div className="container mx-auto px-4 py-8">
           <h2 className="text-3xl font-semibold text-gray-900">Your Journey Begins Here</h2>
           <p className="mt-4 text-gray-700">
-            This is the home page of our website. Here, you'll find information about our company, our services,
+            This is the home page of our website. Here, you  test
+            ll find information about our company, our services,
             and how we aim to make a difference. We are committed to delivering quality products and services to 
             help you grow and succeed.
           </p>
